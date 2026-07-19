@@ -1,0 +1,79 @@
+{
+  "name": "Shivansh",
+  "role": "Software Engineer",
+  "company": "HSBC",
+  "location": "India",
+  "email": "your-email@example.com",
+  "summary": "Software Engineer at HSBC working on HSBCnet, the global corporate banking platform. Primary stack is Java + Spring Boot.",
+  "currentWork": {
+    "platform": "HSBCnet",
+    "highlights": [
+      "Building on HSBCnet — HSBC's global corporate banking platform that handles payments and cash management for large enterprise customers. Worked with Java ,Spring boot   Mongo DB , SQL ",
+      "Migrated the Germany payment corridor from legacy SWIFT MT messages to the ISO 20022 MX standard (pain.001 / pain.002), giving the bank a more structured end-to-end payment flow.",
+      "Built features for Move Money, the UI orchestration layer of HSBCnet — rule-based screen rendering, business-driven workflows, BIC code lookups, payload validation, and National Language Support for China payments.",
+      "Implemented the SEPA Verification of Payee (VoP) workflow as an event-driven Google Pub/Sub listener that processes beneficiary checks and feeds results into payment decisioning.",
+      "Hardened Transaction Service APIs — synced payment data into a shared MongoDB collection, fixed production bugs, upgraded dependencies, and patched security findings.",
+      "Migrated backend APIs to Java 17, added automated tests with JUnit and Karate, and used Splunk for log analysis to keep things reliable.",
+      "Got the star Performer award in Q2 of 2026"
+    ]
+  },
+  "skills": {
+    "primary": [
+      "Java",
+      "Spring Boot",
+      "MongoDB",
+      "Google Pub/Sub",
+      "Kafka",
+      "Docker",
+    "Redis",
+    "Python",
+    "Gen AI ",
+    "LangGraph",
+      "LangChain",
+    "Prompt Engineering" ,
+  "Problem Solving "   ],
+    "side": [
+      "React",
+      "React Native",
+      "Node.js",
+      "Tailwind CSS",
+      "LangChain",
+      "LangGraph",
+      "Docker"
+    ]
+  },
+  "projects": [
+    {
+      "name": "VITclean",
+      "description": "React Native hostel cleaning app"
+    },
+    {
+      "name": "NGO Website",
+      "description": "Full-stack website built for an NGO"
+    },
+    {
+      "name": "Smart Agriculture System",
+      "description": "ESP32 + Raspberry Pi + MQTT + ML based smart farming system"
+    }
+  ],
+  "education": {
+    "degree": "B.Tech in Computer Science (IoT specialization)",
+    "institution": "Vellore Institute of Technology",
+    "cgpa": 8.78,
+    "graduationYear": 2024
+  },
+  "achievements": [
+    "Won HTI Design Pulse Hackathon 2025 with an LLM-driven incident-resolution tool",
+    "LeetCode: 400+ problems solved, rating 1697, top 12% globally",
+    "Google Farewell Round International Rank 3613",
+    "GeeksforGeeks Institute Rank 162",
+    "HackerRank certified: Problem Solving (Intermediate), React.js, JavaScript"
+  ],
+  "contact": {
+    "email": "shivansh.sahai03@example.com",
+    "github": "https://github.com/SSexpl",
+    "linkedin": "https://www.linkedin.com/in/shivansh-sahai-6a1687166/",
+    "leetcode": "https://leetcode.com/u/user9742jk/",
+    "preferredMethod": "email or the contact section on this site"
+  }
+}
