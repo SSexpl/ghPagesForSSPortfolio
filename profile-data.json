@@ -75,5 +75,11 @@
     "linkedin": "https://www.linkedin.com/in/shivansh-sahai-6a1687166/",
     "leetcode": "https://leetcode.com/u/user9742jk/",
     "preferredMethod": "email or the contact section on this site"
-  }
+  },
+  "personalHobbies" : [
+    {"traveling":  "Shivansh have been to trecks and trails and wildlife sanctuaries and National parks accross India, I have done paragliding , ziplining , kayaking , snorkling and other adventure sports. I love to explore new places and cultures."},
+    {"music": "I love to listen to music and I have a collection of 1000+ songs in my playlist. I love to listen to different genres of music and I like to sing along."},
+    {"sports": "I love to play sports and I have played cricket, football, basketball, badminton . I love to watch sports and calesthanic"},
+    {"coding": "I love to code and build projects & play around with new techs and frameworks. I love to participate in hackathons and coding competitions."}
+  ]
 }
